@@ -1,0 +1,18 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+    <student>
+    <id>24174883</id>
+    <name>REMUEL KHENT C. LASALA</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+</students>
+
+<!--What are the basic rules of XML you applied in this lab?
+First, I applied the use of opening and closing tags, and the XML tags must also be properly nested.
+
+Why does XML need a single root element?
+To organize all the elements under one main elements
+
+How does XML ensure interoperability?
+XML makes it easier for different systems to work together because it stores and shares data in a structure everyone can understand.
+-->
